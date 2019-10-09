@@ -1,2 +1,3 @@
 # hello-world
-Hello World
+Greetings earthlings.
+It is I, Dusty from planet fitness.
